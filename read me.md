@@ -70,3 +70,7 @@ function renderTopHeadlines() {
     });
 
 ```
+
+<img width="200" src="images/logotyp-13">
+
+![alttext](/images/KDM%20mockup.png)
